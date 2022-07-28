@@ -24,11 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView=findViewById(R.id.recyclerview);
 
-
-
-
-
         String [] que={"Que 1","Que 2","Que 3","Que 4","Que 5"};
+        //ok1
 
 
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
